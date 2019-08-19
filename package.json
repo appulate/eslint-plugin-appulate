@@ -1,6 +1,6 @@
 {
 	"name": "@appulate/eslint-plugin",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Appulate's ESLint rules",
 	"repository": "appulate/eslint-plugin-appulate",
 	"main": "lib/index.js",
