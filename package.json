@@ -1,6 +1,6 @@
 {
 	"name": "@appulate/eslint-plugin",
-	"version": "0.1.2",
+	"version": "1.0.0",
 	"description": "Appulate's ESLint rules",
 	"repository": "appulate/eslint-plugin-appulate",
 	"main": "lib/index.js",
@@ -22,17 +22,17 @@
 		"test": "jest"
 	},
 	"engines": {
-		"node": ">=10"
+		"node": ">=16"
 	},
 	"peerDependencies": {
-		"eslint": ">=5"
+		"eslint": ">=8"
 	},
 	"devDependencies": {
-		"eslint": "6.4.0",
-		"eslint-config-prettier": "6.3.0",
-		"eslint-plugin-eslint-plugin": "2.1.0",
-		"eslint-plugin-prettier": "3.1.1",
-		"jest": "24.9.0",
-		"prettier": "1.18.2"
+		"eslint": "8.13.0",
+		"eslint-config-prettier": "8.5.0",
+		"eslint-plugin-eslint-plugin": "4.1.0",
+		"eslint-plugin-prettier": "4.0.0",
+		"jest": "27.5.1",
+		"prettier": "2.6.2"
 	}
 }
